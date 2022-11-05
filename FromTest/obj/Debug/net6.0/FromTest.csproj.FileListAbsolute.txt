@@ -1,0 +1,15 @@
+C:\Users\Пользователь\Desktop\Example\FromTest\bin\Debug\net6.0\FromTest.exe
+C:\Users\Пользователь\Desktop\Example\FromTest\bin\Debug\net6.0\FromTest.deps.json
+C:\Users\Пользователь\Desktop\Example\FromTest\bin\Debug\net6.0\FromTest.runtimeconfig.json
+C:\Users\Пользователь\Desktop\Example\FromTest\bin\Debug\net6.0\FromTest.dll
+C:\Users\Пользователь\Desktop\Example\FromTest\bin\Debug\net6.0\FromTest.pdb
+C:\Users\Пользователь\Desktop\Example\FromTest\obj\Debug\net6.0\FromTest.csproj.AssemblyReference.cache
+C:\Users\Пользователь\Desktop\Example\FromTest\obj\Debug\net6.0\FromTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Пользователь\Desktop\Example\FromTest\obj\Debug\net6.0\FromTest.AssemblyInfoInputs.cache
+C:\Users\Пользователь\Desktop\Example\FromTest\obj\Debug\net6.0\FromTest.AssemblyInfo.cs
+C:\Users\Пользователь\Desktop\Example\FromTest\obj\Debug\net6.0\FromTest.csproj.CoreCompileInputs.cache
+C:\Users\Пользователь\Desktop\Example\FromTest\obj\Debug\net6.0\FromTest.dll
+C:\Users\Пользователь\Desktop\Example\FromTest\obj\Debug\net6.0\refint\FromTest.dll
+C:\Users\Пользователь\Desktop\Example\FromTest\obj\Debug\net6.0\FromTest.pdb
+C:\Users\Пользователь\Desktop\Example\FromTest\obj\Debug\net6.0\FromTest.genruntimeconfig.cache
+C:\Users\Пользователь\Desktop\Example\FromTest\obj\Debug\net6.0\ref\FromTest.dll
